@@ -1,0 +1,2 @@
+THis is the python code to run on the firefly accessory computer separate from the flight controller
+this utilises python dronekit to talk to the flight controller (and ground station) usig the MAVLINK Protocol
